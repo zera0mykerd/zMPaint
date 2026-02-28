@@ -1,6 +1,6 @@
 # 🎨 zM - Paint: L'Arte del Disegno nel Browser
 
-![Versione](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Versione](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Linguaggio](https://img.shields.io/badge/language-Italiano-green.svg)
 ![Autore](https://img.shields.io/badge/author-zMykerd-orange.svg)
 
