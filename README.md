@@ -1,3 +1,6 @@
+
+<img width="1142" height="456" alt="pnt" src="https://github.com/user-attachments/assets/8c1cd815-591d-403a-b631-555755b765a0" />
+
 # 🎨 zM - Paint: L'Arte del Disegno nel Browser
 
 ![Versione](https://img.shields.io/badge/version-2.0.0-blue.svg)
